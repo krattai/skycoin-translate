@@ -1,0 +1,11 @@
+Skywire
+
+Ito ay mabilis. Hindi ito nagdudulot ng throttling at iba pang mga pagkagambala sa serbisyo na nakukuha mo sa mga malalaking ISP.
+
+Ito ay pribado. Nangangahulugan ito na hindi ka masusubaybayan habang nagba-browse ka. Sa halip na magbayad ng $ $ bawat buwan upang masubaybayan ng ISP (na nagbebenta ng iyong data sa pag-browse nang walang pahintulot), ang komunidad ng Skywire ay magkakaroon ng internet service na pinoprotektahan ang kanilang privacy.
+
+Ito ay incentivized. Ang Skywire ay bumuo upang maging isang wireless mesh network (WMN). Maaaring kumita ang mga gumagamit ng parehong Skycoin at Coin Hours para sa pagpapatakbo ng mga node ng hardware na nagbibigay ng parehong bandwidth at imbakan sa buong network. Pagkatapos ay maaaring gastusin ng mga gumagamit ang mga Oras ng Coin sa nilalaman at iba pang mga mapagkukunan ng network, habang pinili nila.
+
+Ito ay ligtas. Ang Skywire ay nilikha ng mga gumagamit para sa mga gumagamit. Ang mga gumagamit ay nagdidisiplina sa mga desisyon na ginawa sa network at ang network ay nagpapatakbo sa isang web ng sistema ng tiwala kung saan ang mga nakakahamak na node ay maaaring maputol mula sa pangunahing network ng Skywire sa pamamagitan ng kolektibong kasunduan ng komunidad. Ang modelong pinagkasunduan na ito ay nagpapahintulot sa Skywire na maging immune mula sa mga pag-atake, pagsasamantala at pagmamanipula.
+
+Sa isang panahon kung saan ang mga mamimili ay patuloy na sinasamantala ng malalaking korporasyon sa pangalan ng kita, ang Skywire network ng Skycoin ay isang hininga ng sariwang hangin. Ang Skywire ay nagbibigay ng lakas pabalik sa mga tao at lumilikha ng isang mas malakas, mas mabilis, at mas secure na internet sa proseso.

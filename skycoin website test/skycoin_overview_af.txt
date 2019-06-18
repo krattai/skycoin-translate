@@ -1,0 +1,7 @@
+Skycoin
+
+Skycoin is geskep as 'n antwoord op die tekortkominge van beide Bitcoin en Ethereum. Gebore uit noodsaaklikheid, was geen ander muntstuk Satoshi se oorspronklike visie van 'n ten volle gedesentraliseerde digitale geldeenheid.
+
+Skycoin se platform is vry van sentralisasie en manipulasie deur sy revolusionêre Obelisk konsensus algoritme. Dit beskik oor CX, 'n volledige programmeringstaal wat van die grond af gebou is, sodat honderde duisende devs maklik die toepassings van die blockchain kan implementeer. Skycoin funksioneer as 'n geldeenheid met feitlik-gratis transaksies, binnekort geïmplementeer absolute privaatheid, en Visa-agtige spoed met inherente bate-gesteunde waarde wat nie op spekulasie gebaseer is nie.
+
+Holding Skycoin genereer Munture wat gebruik word om dienste op die Skywire-netwerk te koop en kan vir meer Skycoin uitgeruil word.

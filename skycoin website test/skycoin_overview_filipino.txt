@@ -1,0 +1,7 @@
+Skycoin
+
+Nilikha ang Skycoin bilang isang sagot sa mga pagkukulang ng parehong Bitcoin at Ethereum. Ipinanganak dahil sa pangangailangan, walang iba pang mga barya ang tuparin ang orihinal na paningin ni Satoshi ng isang ganap na desentralisadong digital na pera.
+
+Ang platform ng Skycoin ay libre mula sa sentralisasyon at pagmamanipula sa pamamagitan ng rebolusyonaryong Obelisk consensus algorithm nito. Nagtatampok ito ng CX, isang turing ng kumpletong programming language na binuo mula sa lupa hanggang sa payagan ang daan-daang libong devs na madaling i-deploy ang mga application sa blockchain. Ang mga function ng Skycoin ay isang pera na may mga transaksyon na halos walang bayad, madaling maipapatupad na absolute privacy, at mga bilis ng Visa-tulad ng likas na halaga na nakabatay sa asset na hindi batay sa haka-haka.
+
+Ang pagpindot sa Skycoin ay bumubuo ng Mga Oras ng Coin na ginagamit upang bumili ng mga serbisyo sa network ng Skywire at maaaring palitan para sa higit pang Skycoin.
