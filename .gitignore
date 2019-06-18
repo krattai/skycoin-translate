@@ -1,0 +1,15 @@
+*~
+*._
+*.bak
+*.o
+*.exe
+*#
+*.lo
+*.la
+*.stamp
+*.tmp
+*.log
+*.dll
+*.aps
+*.so
+*.out
