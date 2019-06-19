@@ -1,0 +1,7 @@
+Fiber
+
+Ang walang katapusang-scalable at lubos na napapasadyang parallel-chain architecture ng Skycoin platform. Ang hibla ay isang solusyon na mas mahusay kaysa sa blockchain, na kung saan ay transformational sa paraan na ito ay malulutas nito ang mga umiiral na problema sa teknolohiya na ipinamamahagi ng ledger.
+
+Ang hibla ay ang pundasyon ng "cryptocurrency 3.0", isang walang katapusan na nasusukat na network ng mga blockchain na inilagay nang magkakasabay, tulad ng mga hibla. Ang bawat proyekto na naka-host sa Fiber ay makakakuha ng sarili nitong ganap na napapasadyang, pribadong blockchain na may kakayahang tulad ng Visa. Ang bawat strand na idinagdag sa Fiber ay nagpapalakas sa buong network at binubuo ang tela ng buong ekosistema.
+
+Ang Skycoin Fiber ay hindi nakikipagkumpitensya sa unang at ikalawang henerasyon na cryptocurrency na mga arkitektura, pinapalitan ito. Mula sa panibagong proyekto ng blockchain sa mga negosyo na naghahanap ng mga solusyon, ang hibla ay ang sagot.

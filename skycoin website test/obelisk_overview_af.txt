@@ -1,0 +1,5 @@
+obelisk
+
+Decentralisatie in 'n gecentraliseerde wêreld.
+
+Obelisk is geskep uit die tekortkominge in die Proof of Work (PoW) en Proof of Stake (PoS) algoritmes. Obelisk kan nooit gesentreer word deur mynbote of gemanipuleer word deur aandeelhouers nie, wat beteken dat dit werklik gedesentraliseer is. Obelisk versprei invloed oor die netwerk volgens 'n web-of-trust argitektuur. In plaas van myners bestaan ​​die netwerk uit nodusse. Elke knoop kry sy eie persoonlike blockchain wat enige potensiële slegte akteurs verhoed en kwarantyn. Hierdie nodusse is aansienlik minder duur om te produseer, verkry en te bedryf as enige tradisionele mynwerker wat vir Bitcoin of Ethereum gebruik word. Obelisk is ontwerp om 'n skaalbare, berekenings-billike, nul-afval alternatief vir PoW te wees. Hierdie eienskappe stel die algoritme op 'n volhoubare manier op begrotingsharde hardloop, sonder om elektrisiteit te mors of waardevolle natuurlike hulpbronne te gebruik. Sentralisasie word onmoontlik wanneer feitlik enigiemand 'n nodus kan bedryf.

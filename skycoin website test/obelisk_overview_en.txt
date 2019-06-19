@@ -1,0 +1,5 @@
+Obelisk
+
+Decentralization in a centralized world.
+
+Obelisk was created out of the shortcomings in the Proof of Work (PoW) and Proof of Stake (PoS) algorithms. Obelisk can never be centralized by mining pools or manipulated by shareholders, meaning it is truly decentralized. Obelisk distributes influence over the network according to a web-of-trust architecture. Instead of miners, the network consists of nodes. Each node gets its own personal blockchain which prevents and quarantines any potential bad actors. These nodes are substantially less expensive to produce, acquire and operate than any traditional miner used for Bitcoin or Ethereum. Obelisk was designed to be a scalable, computationally-inexpensive, zero-waste alternative to PoW. These features enable the algorithm to be run on budget hardware in a sustainable fashion, without wasting electricity or consuming valuable natural resources. Centralization becomes nigh-impossible when virtually anyone is able to operate a node.
